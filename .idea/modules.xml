@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/swift-movers-ui-mono.iml" filepath="$PROJECT_DIR$/.idea/swift-movers-ui-mono.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swift-movers-client.iml" filepath="$PROJECT_DIR$/.idea/swift-movers-client.iml" />
     </modules>
   </component>
 </project>
