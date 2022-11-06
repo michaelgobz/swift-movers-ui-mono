@@ -1,0 +1,24 @@
+{
+  "name": "swift-movers-ui-mono",
+  "version": "1.0.0",
+  "description": "swift movers landing page and dasboard services ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgobz/swift-movers-ui-mono.git"
+  },
+  "keywords": [
+    "swift"
+  ],
+  "author": "Michael Goboola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelgobz/swift-movers-ui-mono/issues"
+  },
+  "homepage": "https://github.com/michaelgobz/swift-movers-ui-mono#readme",
+  "dependencies": {
+  }
+}
