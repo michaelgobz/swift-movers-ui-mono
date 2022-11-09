@@ -1,0 +1,3 @@
+query getDeliveries{
+    __typename
+}
