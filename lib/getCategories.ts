@@ -1,6 +1,10 @@
+import React from 'react';
+import { ApolloClient } from '@apollo/client';
+
 export type PageProps = {
   params?: any;
   children?: React.ReactNode;
+  client?:ApolloClient<any>;
 };
 export type Category = {
   name: string;
